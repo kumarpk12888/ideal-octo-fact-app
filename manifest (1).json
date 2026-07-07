@@ -1,0 +1,25 @@
+{
+  "name": "File Convert Tool Hub",
+  "short_name": "FCT Hub",
+  "description": "Free online tools - QR Code Generator, Word Counter, Password Generator, Text Case Converter, PDF to Word and more.",
+  "start_url": "https://fileconverteasytool.blogspot.com/?utm_source=app",
+  "scope": "https://fileconverteasytool.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90D9",
+  "icons": [
+    {
+      "src": "https://kumarpk12888.github.io/ideal-octo-fact-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kumarpk12888.github.io/ideal-octo-fact-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
